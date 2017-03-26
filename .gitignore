@@ -1,0 +1,8 @@
+theano/
+log/
+data/
+results/
+old/
+
+test.py
+*.sh
